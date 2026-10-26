@@ -1,0 +1,100 @@
+{
+  "stocks_downloaded": 444,
+  "trading_days": 2676,
+  "calendar_start": "2014-01-02",
+  "calendar_end": "2024-12-31",
+  "stock_days_raw": 1188144,
+  "raw_by_board": {
+    "gem": 164,
+    "main": 280
+  },
+  "v3_stocks": 441,
+  "v3_by_board": {
+    "gem": 162,
+    "main": 279
+  },
+  "v3_rows": 3127,
+  "v3_windows": 124411,
+  "units_stocks": 442,
+  "units_by_board": {
+    "gem": 162,
+    "main": 280
+  },
+  "units_rows": 219798,
+  "units_periods": 22,
+  "sc_eligible": {
+    "2": {
+      "total": 363,
+      "by_board": {
+        "main": 238,
+        "gem": 125
+      }
+    },
+    "3": {
+      "total": 363,
+      "by_board": {
+        "main": 238,
+        "gem": 125
+      }
+    },
+    "5": {
+      "total": 363,
+      "by_board": {
+        "main": 238,
+        "gem": 125
+      }
+    }
+  },
+  "first_stage": {
+    "pre_gem": 1.3474506739597578,
+    "post_gem": 0.2919722208731971,
+    "pre_main": 0.8431646784587962,
+    "post_main": 1.3826700280429423,
+    "did_2x2": -1.5949838026707068
+  },
+  "fs_stocks": 441,
+  "fs_by_board": {
+    "gem": 162,
+    "main": 279
+  },
+  "fs_stock_years": 2249,
+  "fs_windows": 100423,
+  "v3_years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "units_halfyears": [
+    "2014H1",
+    "2014H2",
+    "2015H1",
+    "2015H2",
+    "2016H1",
+    "2016H2",
+    "2017H1",
+    "2017H2",
+    "2018H1",
+    "2018H2",
+    "2019H1",
+    "2019H2",
+    "2020H1",
+    "2020H2",
+    "2021H1",
+    "2021H2",
+    "2022H1",
+    "2022H2",
+    "2023H1",
+    "2023H2",
+    "2024H1",
+    "2024H2"
+  ],
+  "limitup_rate_all": 0.9995867504275576,
+  "limitup_rate_v3": 1.0820522301082702
+}

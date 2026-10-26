@@ -1,0 +1,14 @@
+# data live on HuggingFace, not in git
+data/
+results_v3/
+results_sc/
+figures/
+*.parquet
+*.pdf
+*.aux
+*.log
+*.out
+
+# python
+__pycache__/
+*.pyc
